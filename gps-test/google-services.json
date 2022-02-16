@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600345624956",
+    "project_id": "gpstest-f55f3",
+    "storage_bucket": "gpstest-f55f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600345624956:android:d65c69505afb8b9d6324f9",
+        "android_client_info": {
+          "package_name": "kr.ac.kpu.gpstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600345624956-1ot10lhc22lcasn0q5a61qi17gh309nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBzBw9dXNZkm-lSZaOVlSARMeEFPUsz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600345624956-1ot10lhc22lcasn0q5a61qi17gh309nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
